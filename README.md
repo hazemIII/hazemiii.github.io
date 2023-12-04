@@ -34,6 +34,9 @@
 - Successfully set up and managed a server and proxy server for the company, and implemented custom version of Chromium using C under Linux
 - Leveraged OpenCV to create innovative filters and enhance image quality
 
+## Skills
+
+
 ## Publications
 1. Qais Saadeh, **Hazem Mesilhy**, Victor Soltwisch, Andreas Erdmann, Richard Ciesielski, Leonhard Lohr, Anna Andrle, Vicky Philipsen, Devesh Thakare, Christian Laubis, Frank Scholze, Michael Kolbe, "Precise optical constants: determination and impact on metrology, simulation, and development of EUV masks," Proc. SPIE 12293, Photomask Technology 2022, 122930Y (1 December 2022) https://doi.org/10.1117/12.2643246 
 
