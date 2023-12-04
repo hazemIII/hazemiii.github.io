@@ -4,3 +4,5 @@ logo: ./assets/Subject.png
 #show_downloads: flase
 #theme: jekyll-theme-minima
 remote_theme: pages-themes/slate@v0.2.0
+styles:
+  - "/assets/style.css"
