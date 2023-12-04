@@ -3,6 +3,4 @@ logo: ./assets/Subject.png
 #description: Email: Hazem.Safwat.Mesilhy@fau.de
 #show_downloads: flase
 #theme: jekyll-theme-minima
-remote_theme: pages-themes/slate@v0.2.0
-styles:
-  - "/assets/style.css"
+remote_theme: pages-themes/dinky@v0.2.0
