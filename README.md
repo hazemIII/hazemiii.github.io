@@ -5,11 +5,11 @@
 #### Technical Skills: Programming, Computational optics, Computational Lithography, EUV, Modeling
 
 ## Education
-+ Ph.D., Computational Lithography
++ Ph.D., Computational Lithography  
 Friedrich Alexander-Universität Erlangen-Nürnberg (_March 2024_)								       		
-+ M.S., Computational Optics
++ M.S., Computational Optics  
 Friedrich Alexander-Universität Erlangen-Nürnberg (_February 2019_)	 			        		
-+ B.S., Electronics and Electrical Communications
++ B.S., Electronics and Electrical Communications  
 Faculty of Engineering - Cairo University (_July 2016_)
 
 ## Work Experience
