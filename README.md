@@ -1,11 +1,11 @@
- #Engineer
+ # Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, Computational optics, Computational Lithography, EUV
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Computational Lithography | Friedrich Alexander-Universität Erlangen-Nürnberg (_March 2024_)								       		
+- M.S., Computational optics	| Friedrich Alexander-Universität Erlangen-Nürnberg (_February 2019_)	 			        		
+- B.S., Electronics and Electrical communications | Faculty of Engineering - Cairo University (_July 2016_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
