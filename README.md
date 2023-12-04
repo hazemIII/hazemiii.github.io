@@ -3,6 +3,7 @@
 [PDF version](./assets/HazemMesilhy_Sept.2023.pdf), [Short Resume](./assets/Hazem_CV_2023.pdf)
 
 #### Technical Skills: Python, Computational optics, Computational Lithography, EUV
+[!TIP] Contact me for more details!
 
 ## Education
 - Ph.D., Computational Lithography | Friedrich Alexander-Universität Erlangen-Nürnberg (_March 2024_)								       		
