@@ -34,6 +34,9 @@
 - Successfully set up and managed a server and proxy server for the company, and implemented custom version of Chromium using C under Linux
 - Leveraged OpenCV to create innovative filters and enhance image quality
 
+## Awards
+- Best Student Paper Award: 2021 SPIE Photomask Technology + EUV Lithography
+
 ## Skills
 - Programming: Python, C++, Java, Matlab (Language Agnostic)
 - High-Performance Computing (HPC)
