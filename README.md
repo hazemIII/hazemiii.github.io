@@ -35,7 +35,20 @@
 - Leveraged OpenCV to create innovative filters and enhance image quality
 
 ## Skills
+- Programming: Python, C++, Java, Matlab (Language Agnostic)
+- High-Performance Computing (HPC)
+- Operating Systems: Windows, Linux
+- Numerical Optimization: Optimization techniques, algorithms, and multiobjective optimizations 
 
+- Machine Learning: Hands-on experience and proficient in utilizing machine learning and AI tools and technologies
+
+- Image Processing: Familiarity with OpenCV and image processing techniques 
+
+- Communication: Strong written and verbal skills for technical and non-technical audiences 
+
+- Problem-Solving: Analytical and critical thinking skills for complex problem-solving 
+
+- Teamwork: Effective collaboration in multidisciplinary team projects
 
 ## Publications
 1. Qais Saadeh, **Hazem Mesilhy**, Victor Soltwisch, Andreas Erdmann, Richard Ciesielski, Leonhard Lohr, Anna Andrle, Vicky Philipsen, Devesh Thakare, Christian Laubis, Frank Scholze, Michael Kolbe, "Precise optical constants: determination and impact on metrology, simulation, and development of EUV masks," Proc. SPIE 12293, Photomask Technology 2022, 122930Y (1 December 2022) https://doi.org/10.1117/12.2643246 
