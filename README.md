@@ -1,5 +1,7 @@
 # Engineer
 
+[PDF version](./assets/HazemMesilhy_Sept.2023.pdf)
+
 #### Technical Skills: Python, Computational optics, Computational Lithography, EUV
 
 ## Education
