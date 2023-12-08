@@ -1,6 +1,6 @@
 [PDF version](./assets/HazemMesilhy_Sept.2023.pdf), [Short Resume](./assets/Hazem_CV_2023.pdf)
 
-##### Passionate engineer specializing in computational lithography, focusing on EUV mask absorber and reflective multilayer modeling. Skilled in diverse programming languages and disciplines. Committed to pushing technological boundaries and finding innovative solutions. Proven track record of exceeding project goals. Eager to contribute to groundbreaking advancements in lithography and beyond.
+##### Passionate engineer specializing in computational lithography, focusing on EUV mask absorber and reflective multilayer modeling. 5+ years of research experience. Skilled in diverse programming languages and disciplines. Committed to pushing technological boundaries and finding innovative solutions. Proven track record of exceeding project goals. Eager to contribute to groundbreaking advancements in lithography and beyond.
 
 #### Technical Skills: Programming, Computational optics, Computational Lithography, EUV, Modeling
 
