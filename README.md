@@ -15,7 +15,8 @@ Faculty of Engineering - Cairo University (_July 2016_)
 ## Work Experience
 **Research Scientist @ Fraunhofer IISB (_March 2019 - Present_)**
 - Conducted novel research in EUV lithography with a focus on mask/shadowing effects in collaboration with ASML in 5-year Joint Development Projects (JDPs)
-- Improved understanding of EUV masks mechanisms, using waveguiding effects and double diffraction models - Developed detailed physical models for EUV mask absorber, considering sidewall angles, thickness, and roughness, to optimize the lithographic processes
+- Improved understanding of EUV masks mechanisms, using waveguiding effects and double diffraction models
+- Developed detailed physical models for EUV mask absorber, considering sidewall angles, thickness, and roughness, to optimize the lithographic processes
 - Created various multilayer models and performed calibrations based on extensive literature review, exploring potential of different materials and effects of degradation
 - Utilized a multi-objective genetic algorithm to identify enhancements for EUV masks, and improving understanding of underlying physics
 - Actively participated in European projects, including the notable ID2PPAC, performing technical tasks, overseeing deliverables, and effectively collaborating with partners
