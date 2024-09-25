@@ -13,7 +13,12 @@ Friedrich Alexander-Universität Erlangen-Nürnberg (_February 2019_)
 Faculty of Engineering - Cairo University (_July 2016_)
 
 ## Work Experience
-**Research Scientist @ Fraunhofer IISB (_March 2019 - Present_)**
+**Senior Engineer @ Huawei Technologies (_July 2024)**
+- Building computational lithography platform for in-house applications
+- Designing OPC strategies for curvilinear masks with emphasis on silicon photonics applications
+-  Building Optimization routines for SMO and resist calibration
+
+**Research Scientist @ Fraunhofer IISB (_March 2019 - June 2024)**
 - Conducted novel research in EUV lithography with a focus on mask/shadowing effects in collaboration with ASML in 5-year Joint Development Projects (JDPs)
 - Improved understanding of EUV masks mechanisms, using waveguiding effects and double diffraction models
 - Developed detailed physical models for EUV mask absorber, considering sidewall angles, thickness, and roughness, to optimize the lithographic processes
