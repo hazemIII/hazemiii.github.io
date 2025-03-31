@@ -14,7 +14,7 @@ Faculty of Engineering - Cairo University (_July 2016_)
 
 ## Work Experience
 **R&D Engineer @ IMEC (_Feb 2025 - Present_)**
-- Resolution enhancement techniques for EUV and high-NA EUV
+- Resolution Enhancement Techniques (RET) for EUV and high-NA EUV
 
 **Senior Engineer @ Huawei Technologies (_July 2024 - December 2024_)**
 - Building computational lithography platform for in-house applications
