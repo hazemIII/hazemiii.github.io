@@ -13,8 +13,9 @@ Friedrich Alexander-Universität Erlangen-Nürnberg (_February 2019_)
 Faculty of Engineering - Cairo University (_July 2016_)
 
 ## Work Experience
-**R&D Engineer @ IMEC (_Feb 2025 - Present_)
+**R&D Engineer @ IMEC (_Feb 2025 - Present_)**
 - Resolution enhancement techniques for EUV and high-NA EUV
+
 **Senior Engineer @ Huawei Technologies (_July 2024 - December 2024_)**
 - Building computational lithography platform for in-house applications
 - Designing OPC strategies for curvilinear masks with emphasis on silicon photonics applications
